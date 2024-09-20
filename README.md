@@ -10,3 +10,14 @@ A few things about me:
 > checkout some of my projects, and ask for help if you have any issue with them.
 > Also my crowning acheivement, getting a user on one of my sites from AOL Desktop
 
+### Work - Srcbook
+
+Check out my work at [srcbook](https://github.com/srcbookdev/srcbook) or give it a try with `npx srcbook@latest start`
+
+<a href="https://star-history.com/#srcbookdev/srcbook&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=srcbookdev/srcbook&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=srcbookdev/srcbook&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=srcbookdev/srcbook&type=Date" />
+ </picture>
+</a>
